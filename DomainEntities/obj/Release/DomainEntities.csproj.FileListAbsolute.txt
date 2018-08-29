@@ -1,0 +1,4 @@
+D:\study\GITHUB\ProductSvc\DomainEntities\bin\Release\DomainEntities.dll
+D:\study\GITHUB\ProductSvc\DomainEntities\bin\Release\DomainEntities.pdb
+D:\study\GITHUB\ProductSvc\DomainEntities\obj\Release\DomainEntities.dll
+D:\study\GITHUB\ProductSvc\DomainEntities\obj\Release\DomainEntities.pdb

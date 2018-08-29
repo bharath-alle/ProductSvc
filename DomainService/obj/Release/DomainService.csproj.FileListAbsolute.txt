@@ -1,0 +1,7 @@
+D:\study\GITHUB\ProductSvc\DomainService\bin\Release\DomainService.dll
+D:\study\GITHUB\ProductSvc\DomainService\bin\Release\DomainService.pdb
+D:\study\GITHUB\ProductSvc\DomainService\bin\Release\DomainEntities.dll
+D:\study\GITHUB\ProductSvc\DomainService\bin\Release\DomainEntities.pdb
+D:\study\GITHUB\ProductSvc\DomainService\obj\Release\DomainService.csprojResolveAssemblyReference.cache
+D:\study\GITHUB\ProductSvc\DomainService\obj\Release\DomainService.dll
+D:\study\GITHUB\ProductSvc\DomainService\obj\Release\DomainService.pdb

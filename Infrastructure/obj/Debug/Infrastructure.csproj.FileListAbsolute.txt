@@ -12,3 +12,17 @@ D:\study\TDD\ProductsSvc\Infrastructure\obj\Debug\Infrastructure.dll
 D:\study\TDD\ProductsSvc\Infrastructure\obj\Debug\Infrastructure.pdb
 D:\study\TDD\ProductsSvc\Infrastructure\bin\Debug\DomainService.dll
 D:\study\TDD\ProductsSvc\Infrastructure\bin\Debug\DomainService.pdb
+D:\study\GITHUB\ProductSvc\Infrastructure\bin\Debug\Infrastructure.dll.config
+D:\study\GITHUB\ProductSvc\Infrastructure\bin\Debug\Infrastructure.dll
+D:\study\GITHUB\ProductSvc\Infrastructure\bin\Debug\Infrastructure.pdb
+D:\study\GITHUB\ProductSvc\Infrastructure\bin\Debug\DomainEntities.dll
+D:\study\GITHUB\ProductSvc\Infrastructure\bin\Debug\DomainService.dll
+D:\study\GITHUB\ProductSvc\Infrastructure\bin\Debug\EntityFramework.dll
+D:\study\GITHUB\ProductSvc\Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+D:\study\GITHUB\ProductSvc\Infrastructure\bin\Debug\DomainEntities.pdb
+D:\study\GITHUB\ProductSvc\Infrastructure\bin\Debug\DomainService.pdb
+D:\study\GITHUB\ProductSvc\Infrastructure\bin\Debug\EntityFramework.xml
+D:\study\GITHUB\ProductSvc\Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+D:\study\GITHUB\ProductSvc\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+D:\study\GITHUB\ProductSvc\Infrastructure\obj\Debug\Infrastructure.dll
+D:\study\GITHUB\ProductSvc\Infrastructure\obj\Debug\Infrastructure.pdb

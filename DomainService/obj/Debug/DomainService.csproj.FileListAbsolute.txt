@@ -5,3 +5,10 @@ D:\study\TDD\ProductsSvc\DomainService\obj\Debug\DomainService.dll
 D:\study\TDD\ProductsSvc\DomainService\obj\Debug\DomainService.pdb
 D:\study\TDD\ProductsSvc\DomainService\bin\Debug\DomainEntities.dll
 D:\study\TDD\ProductsSvc\DomainService\bin\Debug\DomainEntities.pdb
+D:\study\GITHUB\ProductSvc\DomainService\bin\Debug\DomainService.dll
+D:\study\GITHUB\ProductSvc\DomainService\bin\Debug\DomainService.pdb
+D:\study\GITHUB\ProductSvc\DomainService\bin\Debug\DomainEntities.dll
+D:\study\GITHUB\ProductSvc\DomainService\bin\Debug\DomainEntities.pdb
+D:\study\GITHUB\ProductSvc\DomainService\obj\Debug\DomainService.csprojResolveAssemblyReference.cache
+D:\study\GITHUB\ProductSvc\DomainService\obj\Debug\DomainService.dll
+D:\study\GITHUB\ProductSvc\DomainService\obj\Debug\DomainService.pdb

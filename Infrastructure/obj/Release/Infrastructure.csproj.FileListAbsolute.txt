@@ -1,0 +1,14 @@
+D:\study\GITHUB\ProductSvc\Infrastructure\bin\Release\Infrastructure.dll.config
+D:\study\GITHUB\ProductSvc\Infrastructure\bin\Release\Infrastructure.dll
+D:\study\GITHUB\ProductSvc\Infrastructure\bin\Release\Infrastructure.pdb
+D:\study\GITHUB\ProductSvc\Infrastructure\bin\Release\DomainEntities.dll
+D:\study\GITHUB\ProductSvc\Infrastructure\bin\Release\DomainService.dll
+D:\study\GITHUB\ProductSvc\Infrastructure\bin\Release\EntityFramework.dll
+D:\study\GITHUB\ProductSvc\Infrastructure\bin\Release\EntityFramework.SqlServer.dll
+D:\study\GITHUB\ProductSvc\Infrastructure\bin\Release\DomainEntities.pdb
+D:\study\GITHUB\ProductSvc\Infrastructure\bin\Release\DomainService.pdb
+D:\study\GITHUB\ProductSvc\Infrastructure\bin\Release\EntityFramework.xml
+D:\study\GITHUB\ProductSvc\Infrastructure\bin\Release\EntityFramework.SqlServer.xml
+D:\study\GITHUB\ProductSvc\Infrastructure\obj\Release\Infrastructure.csprojResolveAssemblyReference.cache
+D:\study\GITHUB\ProductSvc\Infrastructure\obj\Release\Infrastructure.dll
+D:\study\GITHUB\ProductSvc\Infrastructure\obj\Release\Infrastructure.pdb

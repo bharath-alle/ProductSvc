@@ -7,3 +7,12 @@ D:\study\TDD\ProductsSvc\ApplicationLayer\bin\Debug\DomainService.pdb
 D:\study\TDD\ProductsSvc\ApplicationLayer\obj\Debug\ApplicationLayer.csprojResolveAssemblyReference.cache
 D:\study\TDD\ProductsSvc\ApplicationLayer\obj\Debug\ApplicationLayer.dll
 D:\study\TDD\ProductsSvc\ApplicationLayer\obj\Debug\ApplicationLayer.pdb
+D:\study\GITHUB\ProductSvc\ApplicationLayer\bin\Debug\ApplicationLayer.dll
+D:\study\GITHUB\ProductSvc\ApplicationLayer\bin\Debug\ApplicationLayer.pdb
+D:\study\GITHUB\ProductSvc\ApplicationLayer\bin\Debug\DomainEntities.dll
+D:\study\GITHUB\ProductSvc\ApplicationLayer\bin\Debug\DomainService.dll
+D:\study\GITHUB\ProductSvc\ApplicationLayer\bin\Debug\DomainEntities.pdb
+D:\study\GITHUB\ProductSvc\ApplicationLayer\bin\Debug\DomainService.pdb
+D:\study\GITHUB\ProductSvc\ApplicationLayer\obj\Debug\ApplicationLayer.csprojResolveAssemblyReference.cache
+D:\study\GITHUB\ProductSvc\ApplicationLayer\obj\Debug\ApplicationLayer.dll
+D:\study\GITHUB\ProductSvc\ApplicationLayer\obj\Debug\ApplicationLayer.pdb
