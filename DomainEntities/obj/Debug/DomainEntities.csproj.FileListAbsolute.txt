@@ -1,0 +1,5 @@
+D:\study\TDD\ProductsSvc\DomainEntities\bin\Debug\DomainEntities.dll
+D:\study\TDD\ProductsSvc\DomainEntities\bin\Debug\DomainEntities.pdb
+D:\study\TDD\ProductsSvc\DomainEntities\obj\Debug\DomainEntities.dll
+D:\study\TDD\ProductsSvc\DomainEntities\obj\Debug\DomainEntities.pdb
+D:\study\TDD\ProductsSvc\DomainEntities\obj\Debug\DomainEntities.csprojResolveAssemblyReference.cache
