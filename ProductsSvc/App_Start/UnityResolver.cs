@@ -37,7 +37,7 @@ namespace ProductsSvc.App_Start
             {
                 return container.Resolve(serviceType);
             }
-            catch (ResolutionFailedException ex)
+            catch (ResolutionFailedException)
             {
 
                 return null;
