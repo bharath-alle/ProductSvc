@@ -1,9 +1,0 @@
-D:\study\GITHUB\ProductSvc\ApplicationLayer\bin\Release\ApplicationLayer.dll
-D:\study\GITHUB\ProductSvc\ApplicationLayer\bin\Release\ApplicationLayer.pdb
-D:\study\GITHUB\ProductSvc\ApplicationLayer\bin\Release\DomainEntities.dll
-D:\study\GITHUB\ProductSvc\ApplicationLayer\bin\Release\DomainService.dll
-D:\study\GITHUB\ProductSvc\ApplicationLayer\bin\Release\DomainEntities.pdb
-D:\study\GITHUB\ProductSvc\ApplicationLayer\bin\Release\DomainService.pdb
-D:\study\GITHUB\ProductSvc\ApplicationLayer\obj\Release\ApplicationLayer.csprojResolveAssemblyReference.cache
-D:\study\GITHUB\ProductSvc\ApplicationLayer\obj\Release\ApplicationLayer.dll
-D:\study\GITHUB\ProductSvc\ApplicationLayer\obj\Release\ApplicationLayer.pdb
