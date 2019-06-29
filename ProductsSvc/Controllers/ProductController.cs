@@ -27,7 +27,7 @@ namespace ProductsSvc.Controllers
         [HttpGet]
         public IHttpActionResult GetAllProducts()
         {
-            test
+
             return Ok(_service.GetAllProducts());
         }
         [HttpGet]
