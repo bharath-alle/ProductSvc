@@ -37,7 +37,14 @@ namespace Infrastructure.Repository
                 Name = "Customer Test",
                 Customertype=CustomerType.Regular
             };
+            Customer cj = new Customer
+            {
+                Id = 2,
+                Name = "Jenkins Customers",
+                Customertype = CustomerType.SuperPrime
+            };
             Customers.Add(c);
+            Customers.Add(cj);
             return Customers;
         }
         public static List<PurchaseDetails> dummyPurchaseDetails()
